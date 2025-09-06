@@ -63,7 +63,7 @@ const playMusic = (track, pause = false) => {
         currentSong.play()
         play.src = "img/pause.svg"
     }
-    document.querySelector(".songinfo").innerHTML = track.replaceAll("%20", " ");
+   document.querySelector(".songinfo").innerHTML = decodeURI(track)
     document.querySelector(".songtime").innerHTML = "00:00 / 00:00";
 }
 
