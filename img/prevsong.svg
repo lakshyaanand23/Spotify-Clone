@@ -1,0 +1,8 @@
+<!-- Previous icon (outlined, black border, transparent fill, thicker stroke) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="48" height="48" role="img" aria-labelledby="prevSingleTouch">
+  <title id="prevSingleTouch">Previous</title>
+  <!-- triangle -->
+  <path d="M18 5v14l-10-7z" fill="none" stroke="black" stroke-width="1" stroke-linejoin="round"/>
+  <!-- vertical bar (touching the triangle) -->
+  <path d="M7 5v14" stroke="black" stroke-width="1"/>
+</svg>

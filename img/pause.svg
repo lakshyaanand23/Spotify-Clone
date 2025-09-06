@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="48" height="48" role="img" aria-labelledby="pauseCircleHollowThin">
+  <title id="pauseCircleHollowThin">Pause</title>
+  <!-- circle -->
+  <circle cx="12" cy="12" r="10" fill="none" stroke="black" stroke-width="1"/>
+  <!-- left bar -->
+  <rect x="8" y="7" width="3" height="10" stroke="black" stroke-width="1" fill="none"/>
+  <!-- right bar -->
+  <rect x="13" y="7" width="3" height="10" stroke="black" stroke-width="1" fill="none"/>
+</svg>

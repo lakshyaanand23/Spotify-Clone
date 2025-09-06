@@ -1,0 +1,8 @@
+<!-- Next icon (outlined, black border, transparent fill, thicker stroke like Prev) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="48" height="48" role="img" aria-labelledby="nextSingleTouch">
+  <title id="nextSingleTouch">Next</title>
+  <!-- triangle -->
+  <path d="M6 5v14l10-7z" fill="none" stroke="black" stroke-width="1" stroke-linejoin="round"/>
+  <!-- vertical bar (moved closer to touch triangle) -->
+  <path d="M17 5v14" stroke="black" stroke-width="1"/>
+</svg>

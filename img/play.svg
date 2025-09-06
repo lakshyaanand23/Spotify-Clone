@@ -1,0 +1,8 @@
+<!-- Play icon (hollow triangle inside slightly smaller circle, thicker stroke to match Prev/Next) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="48" height="48" role="img" aria-labelledby="playCircleHollowThin">
+  <title id="playCircleHollowThin">Play</title>
+  <!-- circle (slightly smaller so it visually fits with prev/next buttons) -->
+  <circle cx="12" cy="12" r="10" fill="none" stroke="black" stroke-width="1"/>
+  <!-- triangle -->
+  <path d="M9 7v10l8-5z" fill="none" stroke="black" stroke-width="1" stroke-linejoin="round"/>
+</svg>
